@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="QuestContainer" style="flex-grow: 1;">
+        <ui:Label text="Quest List&#10;" name="QuestListTitel" />
+    </ui:VisualElement>
+    <ui:VisualElement name="QuestList" style="flex-grow: 1;">
+        <ui:Foldout text="Foldout" />
+    </ui:VisualElement>
+</ui:UXML>

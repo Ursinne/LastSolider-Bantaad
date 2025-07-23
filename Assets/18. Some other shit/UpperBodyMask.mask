@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyMask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:LeftUpLeg
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:LeftUpLeg/VBOT_:LeftLeg
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:LeftUpLeg/VBOT_:LeftLeg/VBOT_:LeftFoot
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:LeftUpLeg/VBOT_:LeftLeg/VBOT_:LeftFoot/VBOT_:LeftToeBase
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:LeftUpLeg/VBOT_:LeftLeg/VBOT_:LeftFoot/VBOT_:LeftToeBase/VBOT_:LeftToe_End
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:LeftUpLeg/VBOT_:LeftLeg/VBOT_:LeftFoot/VBOT_:LeftToeBase/VBOT_:LeftToe_End/VBOT_:LeftToe_End_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:RightUpLeg
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:RightUpLeg/VBOT_:RightLeg
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:RightUpLeg/VBOT_:RightLeg/VBOT_:RightFoot
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:RightUpLeg/VBOT_:RightLeg/VBOT_:RightFoot/VBOT_:RightToeBase
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:RightUpLeg/VBOT_:RightLeg/VBOT_:RightFoot/VBOT_:RightToeBase/VBOT_:RightToe_End
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:RightUpLeg/VBOT_:RightLeg/VBOT_:RightFoot/VBOT_:RightToeBase/VBOT_:RightToe_End/VBOT_:RightToe_End_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandIndex1/VBOT_:LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandIndex1/VBOT_:LeftHandIndex2/VBOT_:LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandIndex1/VBOT_:LeftHandIndex2/VBOT_:LeftHandIndex3/VBOT_:LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandIndex1/VBOT_:LeftHandIndex2/VBOT_:LeftHandIndex3/VBOT_:LeftHandIndex4/VBOT_:LeftHandIndex4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandMiddle1/VBOT_:LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandMiddle1/VBOT_:LeftHandMiddle2/VBOT_:LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandMiddle1/VBOT_:LeftHandMiddle2/VBOT_:LeftHandMiddle3/VBOT_:LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandMiddle1/VBOT_:LeftHandMiddle2/VBOT_:LeftHandMiddle3/VBOT_:LeftHandMiddle4/VBOT_:LeftHandMiddle4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandPinky1/VBOT_:LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandPinky1/VBOT_:LeftHandPinky2/VBOT_:LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandPinky1/VBOT_:LeftHandPinky2/VBOT_:LeftHandPinky3/VBOT_:LeftHandPinky4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandPinky1/VBOT_:LeftHandPinky2/VBOT_:LeftHandPinky3/VBOT_:LeftHandPinky4/VBOT_:LeftHandPinky4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandRing1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandRing1/VBOT_:LeftHandRing2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandRing1/VBOT_:LeftHandRing2/VBOT_:LeftHandRing3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandRing1/VBOT_:LeftHandRing2/VBOT_:LeftHandRing3/VBOT_:LeftHandRing4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandRing1/VBOT_:LeftHandRing2/VBOT_:LeftHandRing3/VBOT_:LeftHandRing4/VBOT_:LeftHandRing4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandThumb1/VBOT_:LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandThumb1/VBOT_:LeftHandThumb2/VBOT_:LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandThumb1/VBOT_:LeftHandThumb2/VBOT_:LeftHandThumb3/VBOT_:LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:LeftShoulder/VBOT_:LeftArm/VBOT_:LeftForeArm/VBOT_:LeftHand/VBOT_:LeftHandThumb1/VBOT_:LeftHandThumb2/VBOT_:LeftHandThumb3/VBOT_:LeftHandThumb4/VBOT_:LeftHandThumb4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:Neck
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:Neck/VBOT_:Head
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:Neck/VBOT_:Head/VBOT_:HeadTop_End
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:Neck/VBOT_:Head/VBOT_:HeadTop_End/VBOT_:HeadTop_End_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandIndex1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandIndex1/VBOT_:RightHandIndex2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandIndex1/VBOT_:RightHandIndex2/VBOT_:RightHandIndex3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandIndex1/VBOT_:RightHandIndex2/VBOT_:RightHandIndex3/VBOT_:RightHandIndex4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandIndex1/VBOT_:RightHandIndex2/VBOT_:RightHandIndex3/VBOT_:RightHandIndex4/VBOT_:RightHandIndex4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandMiddle1/VBOT_:RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandMiddle1/VBOT_:RightHandMiddle2/VBOT_:RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandMiddle1/VBOT_:RightHandMiddle2/VBOT_:RightHandMiddle3/VBOT_:RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandMiddle1/VBOT_:RightHandMiddle2/VBOT_:RightHandMiddle3/VBOT_:RightHandMiddle4/VBOT_:RightHandMiddle4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandPinky1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandPinky1/VBOT_:RightHandPinky2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandPinky1/VBOT_:RightHandPinky2/VBOT_:RightHandPinky3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandPinky1/VBOT_:RightHandPinky2/VBOT_:RightHandPinky3/VBOT_:RightHandPinky4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandPinky1/VBOT_:RightHandPinky2/VBOT_:RightHandPinky3/VBOT_:RightHandPinky4/VBOT_:RightHandPinky4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandRing1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandRing1/VBOT_:RightHandRing2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandRing1/VBOT_:RightHandRing2/VBOT_:RightHandRing3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandRing1/VBOT_:RightHandRing2/VBOT_:RightHandRing3/VBOT_:RightHandRing4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandRing1/VBOT_:RightHandRing2/VBOT_:RightHandRing3/VBOT_:RightHandRing4/VBOT_:RightHandRing4_end
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandThumb1
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandThumb1/VBOT_:RightHandThumb2
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandThumb1/VBOT_:RightHandThumb2/VBOT_:RightHandThumb3
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandThumb1/VBOT_:RightHandThumb2/VBOT_:RightHandThumb3/VBOT_:RightHandThumb4
+    m_Weight: 1
+  - m_Path: Armature/VBOT_:Hips/VBOT_:Spine/VBOT_:Spine1/VBOT_:Spine2/VBOT_:RightShoulder/VBOT_:RightArm/VBOT_:RightForeArm/VBOT_:RightHand/VBOT_:RightHandThumb1/VBOT_:RightHandThumb2/VBOT_:RightHandThumb3/VBOT_:RightHandThumb4/VBOT_:RightHandThumb4_end
+    m_Weight: 1
+  - m_Path: VBOT_:VBOT_LOD0
+    m_Weight: 1
+  - m_Path: VBOT_:VBOT_LOD1
+    m_Weight: 1
+  - m_Path: VBOT_:VBOT_LOD2
+    m_Weight: 1
+  - m_Path: VBOT_:VBOT_LOD3
+    m_Weight: 1

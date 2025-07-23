@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 276b6546cac9115498b8eca2e81b8e14
+timeCreated: 1519064830
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111945
+  packageName: PBR Customized Soldier
+  packageVersion: 1.0
+  assetPath: Assets/PBR_Customized_Soldier/Materials/Body06.mat
+  uploadId: 462360

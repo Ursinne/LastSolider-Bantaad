@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7edb8eb7125ea44f68bbe616b44fa9bc, type: 3}
+  m_Name: Color Palette
+  m_EditorClassIdentifier: 
+  colorDesigns:
+  - keyChar: '!'
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.8605151, g: 0, b: 1, a: 1}
+    textAlignment: 4
+    fontStyle: 1
+  - keyChar: /
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.9056604, g: 0.8415806, b: 0.8415806, a: 1}
+    textAlignment: 4
+    fontStyle: 1
+  - keyChar: '#'
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0, g: 0.32225704, b: 1, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+  - keyChar: '@'
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 1, g: 0.30561107, b: 0, a: 1}
+    textAlignment: 4
+    fontStyle: 1
+  - keyChar: '!'
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.04045032, g: 0.9528302, b: 0.10469448, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: "\xA4"
+    textColor: {r: 0.5568628, g: 0, b: 1, a: 1}
+    backgroundColor: {r: 0.55581, g: 0, b: 1, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: '%'
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.990566, g: 0.990566, b: 0.990566, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: (
+    textColor: {r: 1, g: 0, b: 0.75294125, a: 1}
+    backgroundColor: {r: 1, g: 0, b: 0.7536311, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: )
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0, g: 0.042004842, b: 0.990566, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+  - keyChar: 2
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: 3
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    textAlignment: 4
+    fontStyle: 1
+  - keyChar: 4
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    textAlignment: 1
+    fontStyle: 0
+  - keyChar: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    textAlignment: 7
+    fontStyle: 0
+  - keyChar: =
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.9716981, g: 0.0779192, b: 0.77701163, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: )
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.23335704, g: 0.6138521, b: 0.8679245, a: 1}
+    textAlignment: 7
+    fontStyle: 1
+  - keyChar: '?'
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    backgroundColor: {r: 0.44935924, g: 0.48555332, b: 0.509434, a: 1}
+    textAlignment: 3
+    fontStyle: 2
+  - keyChar: 8
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.36133856, g: 0.37095052, b: 0.3773585, a: 1}
+    textAlignment: 4
+    fontStyle: 2
+  - keyChar: 9
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.6568174, g: 0.67027414, b: 0.6792453, a: 1}
+    textAlignment: 3
+    fontStyle: 2

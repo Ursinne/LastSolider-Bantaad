@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10d2f6ad78dc34f409015301c1c0f84b, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemName: Axe
+  itemIcon: {fileID: 21300000, guid: d894dac98927d1647a626fc0d29c45d5, type: 3}
+  description: Use this to get wood
+  tooltipText: 
+  itemType: 0
+  rarity: 2
+  itemPrefab: {fileID: 846145269177464341, guid: 68c1d8a4226a911498d785dd8e070dfd,
+    type: 3}
+  isStackable: 0
+  useCustomStackSize: 0
+  maxStackSize: 0
+  basePrice: 0
+  amount: 1
+  isEquippable: 1
+  equipmentSlotType: 5
+  requiredLevel: 0
+  durability: 100
+  maxDurability: 100
+  toolType: 1
+  toolEfficiency: 1
+  harvestAmount: 1
+  compatibleResources: []
+  durabilityLossPerUse: 1
+  damage: 1
+  attackSpeed: 1
+  criticalChance: 1
+  criticalMultiplier: 1
+  defense: 0
+  weight: 0
+  healthRestore: 0
+  thirstRestore: 0
+  hungerRestore: 0
+  SicknessRestore: 0
+  sexRestore: 0
+  manaRestore: 0
+  staminaRestore: 0
+  duration: 0
+  hasTemporaryEffect: 0
+  appliesBuffs: 0
+  strengthBuff: 0
+  agilityBuff: 0
+  intelligenceBuff: 0
+  healthBuff: 0
+  manaBuff: 0
